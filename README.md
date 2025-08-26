@@ -3,15 +3,12 @@ Basit bir komut satırı not alma uygulaması (Bash). Not ekleme, listeleme, ara
 ## Hızlı Başlangıç
 
 ```bash
-# Repo klonla (örnek)
-git clone https://github.com/YOUR-USERNAME/daily-notes.git
-cd daily-notes
 
 # Not ekleme
-./notes.sh add "Bugün yeni şeyler öğrendim"
+./notes.sh add "I did something new today"
 
 # Notları listele
 ./notes.sh list
 
 # Notlarda ara
-./notes.sh search "öğrendim"
+./notes.sh search "new"
