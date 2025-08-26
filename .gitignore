@@ -1,0 +1,9 @@
+# ignore notes file (user data)
+notes.txt
+
+# system files
+.DS_Store
+
+# python
+__pycache__/
+*.pyc
